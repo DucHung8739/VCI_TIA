@@ -53,7 +53,9 @@
         <Component Name="Tag_7" />
       </Symbol>
     </Access>
-    <Part Name="Contact" UId="23" />
+    <Part Name="Contact" UId="23">
+      <Negated Name="operand" />
+    </Part>
     <Part Name="Coil" UId="24" />
   </Parts>
   <Wires>
